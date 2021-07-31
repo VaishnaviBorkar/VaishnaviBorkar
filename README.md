@@ -23,11 +23,9 @@ Hi 👋, I'm Vaishnavi Borkar<!-- <h1 align="center">Hi 👋, I'm Vaishnavi Bork
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnaviborkar&" alt="vaishnaviborkar" /></p>
 <p margin-top="50px">
+ 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnaviborkar&show_icons=true&locale=en" alt="vaishnaviborkar" /></p>
+ 
+ <img align="keft" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnaviborkar&show_icons=true&locale=en&layout=compact" alt="vaishnaviborkar" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaviborkar&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaviborkar" /> </p>
-
-
-<img align="keft" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnaviborkar&show_icons=true&locale=en&layout=compact" alt="vaishnaviborkar" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnaviborkar&show_icons=true&locale=en" alt="vaishnaviborkar" /></p>
