@@ -5,7 +5,7 @@ Hi 👋, I'm Vaishnavi Borkar<!-- <h1 align="center">Hi 👋, I'm Vaishnavi Bork
 
 <!-- - 👨‍💻 All of my projects are available at [https://vaishnaviborkar.github.io/my-portfolio/](https://vaishnaviborkar.github.io/my-portfolio/) -->
 
-- 📫 How to reach me **borkarvaishnavi85@gmail.com**
+<!-- - 📫 How to reach me **borkarvaishnavi85@gmail.com** -->
 
 - 📄 Know about my experiences [https://vaishnaviborkar.github.io/my-portfolio/](https://vaishnaviborkar.github.io/my-portfolio/)
 
