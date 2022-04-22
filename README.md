@@ -13,7 +13,7 @@ Hi 👋, I'm Vaishnavi Borkar<!-- <h1 align="center">Hi 👋, I'm Vaishnavi Bork
 <p align="left">
 <!--  
  <a hreef="https://github.com/VaishnaviBorkar/" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height="45" width="30"></a> -->
-<a href="https://linkedin.com/in/vaishnaviborkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi borkar" height="25" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaishnavi-borkar-b7b173229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi borkar" height="25" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/borkarvaishnavi85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="borkarvaishnavi85" height="25" width="40" /></a>
 </p>
 
