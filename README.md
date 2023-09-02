@@ -1,7 +1,7 @@
 Hi 👋, I'm Vaishnavi Borkar<!-- <h1 align="center">Hi 👋, I'm Vaishnavi Borkar</h1> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaviborkar&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaviborkar" /> </p> -->
 
-- 🌱 I’m currently learning **Full Stack MERN Devlopement**
+- 🌱 I’m currently Working at **TCS**
 
 <!-- - 👨‍💻 All of my projects are available at [https://vaishnaviborkar.github.io/my-portfolio/](https://vaishnaviborkar.github.io/my-portfolio/) -->
 
