@@ -7,7 +7,7 @@ Hi 👋, I'm Vaishnavi Borkar<!-- <h1 align="center">Hi 👋, I'm Vaishnavi Bork
 
 <!-- - 📫 How to reach me **borkarvaishnavi85@gmail.com** -->
 
-- 📄 Know about my experiences [https://vaishnaviborkar.github.io/my-portfolio/](https://vaishnaviborkar.github.io/my-portfolio/)
+<!--- 📄 Know about my experiences [https://vaishnaviborkar.github.io/my-portfolio/](https://vaishnaviborkar.github.io/my-portfolio/)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
